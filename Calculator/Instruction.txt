@@ -1,0 +1,19 @@
+🐍 Simple Calculator - Quick Instructions
+
+1. Run the program:
+   python calculator.py
+
+2. Choose an option (1-7):
+   1 → Add
+   2 → Subtract
+   3 → Multiply
+   4 → Divide
+   5 → Remainder
+   6 → Power
+   7 → Exit
+
+3. Enter two numbers when prompted.
+4. View the result.
+5. Repeat or select 7 to exit.
+
+⚠️ Division by zero is not allowed.
